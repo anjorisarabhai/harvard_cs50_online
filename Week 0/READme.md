@@ -1,4 +1,4 @@
-# 🎮 Upside Down Chase
+# 🎮 The Upside Down Chase
 
 A Stranger Things-themed game built using **Scratch**, where the player races to escape the Demogorgon in the eerie, mysterious world of the **Upside Down**.
 
