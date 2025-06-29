@@ -31,7 +31,7 @@ Inspired by the hit show **Stranger Things**, this game challenges players to:
 ## 📽️ Video Demonstration
 
 Check out the gameplay demo here:  
-📹 **[Watch the video](./Upside%20Down%20Chase%20(Stranger%20Things%20-%20Themed%20Game)%20Video%20Demonstration.mp4)**
+📹 **[Watch the video](./Upside%20Down%20Chase%20(Stranger%20Things%20-%20Themed%20Game)%20Live%20Demonstration.mp4)**
 
 ## 📂 File Structure
 📁 Upside Down Chase Project
